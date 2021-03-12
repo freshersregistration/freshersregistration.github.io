@@ -1,2 +1,0 @@
-# freshersregistrastion
-online registration
